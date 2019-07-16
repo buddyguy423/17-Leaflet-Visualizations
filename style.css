@@ -1,12 +1,12 @@
 body {
-    padding: 0;
-    margin: 0;
+    padding: 20;
+    margin: 20;
   }
 
   #mymap,
   body,
   html {
-    height: 100%;
+    height: 99%;
   }
 
 
