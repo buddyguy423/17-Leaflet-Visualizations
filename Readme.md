@@ -88,8 +88,3 @@ Your final product will be assessed on the following metrics:
 
 * Professionalism
 
-**Good luck!**
-
-## Copyright
-
-Coding Boot Camp (C) 2016. All Rights Reserved.
